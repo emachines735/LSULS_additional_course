@@ -13,3 +13,5 @@ Lessons 1-2 https://bitbucket.org/hrojas/learn-pandas
 https://habrahabr.ru/post/202090/
 
 Crash Course in Python for Scientists - http://nbviewer.jupyter.org/gist/rpmuller/5920182
+
+Getting Started with Python: Kaggle's Titanic Competition https://www.kaggle.com/c/titanic/details/getting-started-with-python
